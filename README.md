@@ -26,7 +26,7 @@ for (int i = 0; i < input_len; i++) {
 int main() {
     printf("\n\n\n\n      ***** ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM *****\n\n\n");
     
-char url[] = "VASANTHAMUKILAN M";
+char url[] = "BALAJI ";
 char key[] = "secretkey"; 
 
 printf("Original text: %s\n", url);
